@@ -28,7 +28,7 @@ We are proud to share that the News WebApp has received positive feedback from o
 
 ## How to Use
 
-1. Visit the [News WebApp](#) (Add your deployment link here).
+1. Visit the [News WebApp](#) .
 2. Customize your news feed by selecting your preferred topics.
 3. Browse the latest news articles and stay informed.
 
@@ -49,6 +49,6 @@ We welcome contributions from the open-source community. Feel free to fork this 
 
 ## Contact Us
 
-If you have any questions, suggestions, or feedback, please reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions, suggestions, or feedback, please reach out to us at .(mailto:pr326573@gmail.com).
 
 Thank you for using the News WebApp! Stay informed and stay connected.
